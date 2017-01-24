@@ -1,11 +1,2 @@
----
-title: "MR scoring systems in Nor-COAST"
-author: "Till Schellhorn"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-output: bookdown::gitbook
-documentclass : book
-output_dir: "docs"
-link-citations: yes
-description: "This document is intended to define the scoring system for brain MR-changes in the Nor-COAST study"
----
+# Preface
+Hi
