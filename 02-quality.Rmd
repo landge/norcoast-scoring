@@ -1,0 +1,25 @@
+#Visual quality control {#qa}
+Beside the quantitative quality control done with the different software analysis packages, we will be doing a visual quality control by manually scrolling through every image that
+is supposed to be processed computationally. What we have to look for are visible distortions/artifacts. Here are some examples of MRI artifacts:
+
+1. Field of View clipping
+2. Wrapping
+3. Susceptibility artifact
+4. Ringing, blurring
+5. Ghosting
+6. Signal inhomogeneity
+7. Motion artifact
+
+The main goal of this visual quality assurance (QA) is to detect MR-brain scans that are unusable for further analysis and distinguish them from imaging studies without or with
+artifacts that don't affect data quality. The different types of artifacts are evaluated separately and combined to one rating on a score from 1 to 4. Where 
+
+`1 equals "No artifacs"`
+
+`2 equals "Minor artifacts without afftection of data quality"`
+
+`3 equals "Moderate artifacts that renders the data unusable"`
+
+`4 equals "Severe artifacts"`
+
+As guideline for the qualitative QA the [MRI Qualitative Quality Control Manual](http://cbs.fas.harvard.edu/science/core-facilities/neuroimaging/information-investigators/qc#qc_manual) was used, 
+developed by the Harvard Center for Brain Science. A pdf-version of this document is available [here](http://cbs.fas.harvard.edu/usr/mcmains/CBS_MRI_Quality_Control_Workshop.pdf). 

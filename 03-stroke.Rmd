@@ -1,0 +1,14 @@
+#Visual scoring of ischemic lesions {#stroke}
+When visually assessing assumed ischemic lesions we differentiate diffusion (DWI) positive lesions from 
+diffusion negative lesions. A diffusion negative lesion qualifies as a small infarct when it matches the criteria for a lacune, see section \@ref(lacune)
+
+## Lacunes {#lacune}
+Lacunes are defined as small lesions measuring between 3 and 15 mm with characteristic central CSF-like signal on all sequences. They might be surrounded  by a hyperintense T2-FLAIR rim. They occur in the deep white or grey matter, subcortical or in the pons. Lacunes are scored as either absent or present. Where
+
+`0 equals absent` and 
+
+`1 equals present`.
+
+## Infarcts
+Acute or subacute infarcts are defined radiologically as DWI-positive lesions that, when larger, corresponds to a vascular supply either focal or more territorial. Further other causes of restricted diffusion have to be excluded. Small lesions up to 15 mm without acute diffusion restriction or typical lacunar appearance can not be classified as infarcts and are regarded as unspecific white matter lesions (WML).
+In our study we will measure the volume of the DWI-positive lesion and note its location. 
