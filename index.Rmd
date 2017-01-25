@@ -1,2 +1,11 @@
-# Preface
-Hi
+# Background 
+
+`r knitr::include_graphics("images/norcoast-scoring.svg")`
+
+The Norwegian Cognitive Impairment after Stroke \( [Nor-COAST](https://clinicaltrials.gov/ct2/show/NCT02650531) \) study
+Beside the quantitative analysis of MR-brain scans done in the Nor-COAST study, we will do a visual assessment of every included MR sequence. 
+This assessment should incorporate both a quality assurance of the technical aspects and a semi quantitative scoring of pathological changes in the imaged brain. 
+This document is intended to work as a draft for all participating professions to establish one common ground for further  communication and analysis of MR-brain scans in the Nor-COAST study.   
+Every chapter deals with one aspect of the assessment. Starting with the technical quality assurance \@ref(qa) and proceeding with white matter changes, medial temporal lobe atrophy and cortical atrophy. Further we will
+discuss a semiquantitative scoring system of susceptibility-weighted-imaging sequences. 
+Hopefully this work leads to scoring-systems  all disciplines can agree upon.  
