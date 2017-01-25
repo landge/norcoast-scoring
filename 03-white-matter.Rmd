@@ -1,4 +1,4 @@
-# White Matter Changes (WMC) Rating Scale
+# White Matter Changes (WMC) Rating Scale {#wmc}
 To visually evaluate the amount of white matter changes we will use the solid four-step Fazekas scale. Where
 
 `0 equals No or only 1 WML`
