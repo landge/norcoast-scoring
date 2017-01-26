@@ -13,18 +13,12 @@ is supposed to be processed computationally. What we have to look for are visibl
 The main goal of this visual quality assurance (QA) is to detect MR-brain scans that are unusable for further analysis and distinguish them from imaging studies without or with
 artifacts that don't affect data quality. The different types of artifacts are evaluated separately and combined to one rating on a score from 1 to 4. Where 
 
-Score         Meaning
-_____         _______
-1             "No artifacts"
-
-
-`1 equals "No artifacs"`
-
-`2 equals "Minor artifacts without afftection of data quality"`
-
-`3 equals "Moderate artifacts that renders the data unusable"`
-
-`4 equals "Severe artifacts"`
+|Score|         Meaning|
+|-----|----------------|
+|1    |  "No artifacts"|
+|2    | "Minor artifacts without affection of data quality"|
+|3    | "Moderate artifacts that renders the data unusable"|
+|4    | "Severe artifacts"|
 
 As guideline for the qualitative QA the [MRI Qualitative Quality Control Manual](http://cbs.fas.harvard.edu/science/core-facilities/neuroimaging/information-investigators/qc#qc_manual) was used, 
 developed by the Harvard Center for Brain Science. A pdf-version of this document is available [here](http://cbs.fas.harvard.edu/usr/mcmains/CBS_MRI_Quality_Control_Workshop.pdf). 
