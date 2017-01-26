@@ -10,7 +10,7 @@ github-repo: "landge/norcoast-scoring"
 `r knitr::include_graphics("images/norcoast-scoring.svg")`
 
 The Norwegian Cognitive Impairment after Stroke \( [Nor-COAST](https://clinicaltrials.gov/ct2/show/NCT02650531) \) is a prospective, longitudinal  study aiming to desrcibe incidence and predictors of [poststroke dementia (PSD)](http://www.thelancet.com/pdfs/journals/laneur/PIIS1474-4422(05)70221-0.pdf) and [mild cognitive impairment (MCI)](http://www.alz.org/dementia/mild-cognitive-impairment-mci.asp) after stroke.
-Beside the quantitative analysis of MR-brain scans done in the Nor-COAST study, we will do a visual assessment of every included MR sequence. 
+Beside the quantitative analysis of MR-brain scans done in the Nor-COAST study, we will do a visual assessment of the every brain scan. 
 This assessment should incorporate both a quality assurance of the technical aspects and a semi quantitative scoring of pathological changes in the imaged brain. 
 This document is intended to work as a draft for all participating professions to establish one common ground for further  communication and analysis of MR-brain scans in the Nor-COAST study.   
 Every part of the document deals with one aspect of the assessment. Starting with the technical quality assurance \@ref(qa) and proceeding with ischemic lesions \@ref(stroke), white matter changes \@ref(wmc) and medial temporal lobe atrophy \@ref(mta). Further we will
