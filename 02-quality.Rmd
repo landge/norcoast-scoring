@@ -14,7 +14,7 @@ The main goal of this visual quality assurance (QA) is to detect MR-brain scans 
 artifacts that don't affect data quality. The different types of artifacts are evaluated separately and combined to one rating on a score from 1 to 4. Where 
 
 Score         Meaning
------         -------
+_____         _______
 1             "No artifacts"
 
 
