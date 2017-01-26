@@ -5,9 +5,10 @@ diffusion negative lesions. A diffusion negative lesion qualifies as a small inf
 ## Lacunes {#lacune}
 Lacunes are defined as small lesions measuring between 3 and 15 mm with characteristic central CSF-like signal on all sequences. They might be surrounded  by a hyperintense T2-FLAIR rim. They occur in the deep white or grey matter, subcortical or in the pons. Lacunes are scored as either absent or present. Where
 
-`0 equals absent` and 
-
-`1 equals present`.
+|Score|Meaning|
+|-----|-------|
+|0    | absent|
+|1    | present|
 
 ## Infarcts
 Acute or subacute infarcts are defined radiologically as DWI-positive lesions that, when larger, corresponds to a vascular supply either focal or more territorial. Further other causes of restricted diffusion have to be excluded. Small lesions up to 15 mm without acute diffusion restriction or typical lacunar appearance can not be classified as infarcts and are regarded as unspecific white matter lesions (WML).
