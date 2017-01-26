@@ -1,2 +1,3 @@
 # Nor-COAST Imaging Scoring System
-A quick guide to the Imaging Scoring Systems used in the Norwegian Cognitive Impairment after Stroke Study. The online version of the document can be found [here](https://landge.github.io/norcoast-scoring)
+A quick guide to the Imaging Scoring Systems used in the Norwegian Cognitive Impairment after Stroke Study. The online version of the document can be found [here](https://landge.github.io/norcoast-scoring). 
+For editing choose the respective chapter and click on the edit symbol.
