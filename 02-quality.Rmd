@@ -22,3 +22,10 @@ artifacts that don't affect data quality. The different types of artifacts are e
 
 As guideline for the qualitative QA the [MRI Qualitative Quality Control Manual](http://cbs.fas.harvard.edu/science/core-facilities/neuroimaging/information-investigators/qc#qc_manual) was used, 
 developed by the Harvard Center for Brain Science. A pdf-version of this document is available [here](http://cbs.fas.harvard.edu/usr/mcmains/CBS_MRI_Quality_Control_Workshop.pdf). 
+
+`r knitr::include_graphics("images/art-1.JPG")`
+`r knitr::include_graphics("images/art-2.JPG")`
+`r knitr::include_graphics("images/art-3.JPG")`
+`r knitr::include_graphics("images/art-4.JPG")`
+`r knitr::include_graphics("images/art-1.jpgg")`
+`r knitr::include_graphics("images/art-1.jpgg")`

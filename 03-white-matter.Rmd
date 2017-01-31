@@ -1,12 +1,12 @@
 # White Matter Changes (WMC) Rating Scale {#wmc}
 To visually evaluate the amount of white matter changes we will use the solid four-step Fazekas scale. Where
 
-|Score|Meaning|
-|-----|-------|
-|0    |No or only 1 WML|
-|1    |Punctuate small WMLs, can be considered normal even below the age of 65|
-|2    |Early confluent WMLs, considered abnormal under the age of 70|
-|3    |Confluent WMLs, always abnormal, poor outcome in terms of cognition and survival|
+|Score|										Meaning|
+|-----|--------------------------------------------------------------------------------|
+|0    |									No or only 1 WML|
+|1    |		Punctuate small WMLs, can be considered normal even below the age of 65|
+|2    |			Early confluent WMLs, considered abnormal under the age of 70|
+|3    |	Confluent WMLs, always abnormal, poor outcome in terms of cognition and survival|
 
 
 

@@ -3,7 +3,7 @@ When visually assessing assumed ischemic lesions we differentiate diffusion (DWI
 diffusion negative lesions. A diffusion negative lesion qualifies as a small infarct when it matches the criteria for a lacune, see section \@ref(lacune)
 
 ## Lacunes {#lacune}
-Lacunes are defined as small lesions measuring between 3 and 15 mm with characteristic central CSF-like signal on all sequences. They might be surrounded  by a hyperintense T2-FLAIR rim. They occur in the deep white or grey matter, subcortical or in the pons. Lacunes are scored as either absent or present. Where
+Lacunes @Potter2010 are defined as small lesions measuring between 3 and 15 mm with characteristic central CSF-like signal on all sequences. They might be surrounded  by a hyperintense T2-FLAIR rim. They occur in the deep white or grey matter, subcortical or in the pons. Lacunes are scored as either absent or present. Where
 
 |Score|Meaning|
 |-----|-------|
