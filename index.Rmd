@@ -3,6 +3,7 @@ title: "Nor-COAST Imaging Scoring Systems"
 author: "Till Schellhorn, Mona K Beyer"
 description: "Guide to Nor-COAST Imaging Scoring Systems"
 bibliography: ["library.bib"]
+link-citations: true
 github-repo: "landge/norcoast-scoring"
 ---
 
