@@ -1,14 +1,22 @@
 # Medial Temporal Atrophy (MTA) {#mta}
 To visually assess the focal atrophy of the temporal lobe we utilize the 5-step "medial temporal lobe atrophy (MTA) score". All scorings should be done on slices perpendicular to the long axis of the hippocampus on the first slice posterior to the amygdala. The MTA score increases as a function of age.  
+In the Nor-COAST study the Scheltens scale [@Scheltens1992] will be used. The sensitivity and specificityof the visual Scheltens scale is comparable to automatic computational evalutations [@Westman2011].
+["The Radiologyassistant"](http://www.radiologyassistant.nl/en/p43dbf6d16f98d/dementia-role-of-mri.html) 
+gives a compact summary of the Scheltens scale.
 
-`0 equals normal width of choroid fissure, temporal horn and height of hippocampus`
+|Score|											Meaning|
+|-----|----------------------------------------------------------------------------------------|
+|0    |Normal width of choroid fissure, temporal horn and height of hippocampus|
+|1   |Mild widening of the choroid fissure while still normal temporal horn and hippocampus|
+|2   |Moderate widening of the choroid fissure, mild widening of the temporal horn and slightly decreased height of the hippocampus|
+|3   |severe widening of the choroid fissure, moderate widening of the temporal horn and moderate decreased height of hippocampus|
+|4   |severe widening of choroid fissure and temporal horn and severely decreased height of hippocampus|
 
-`1 equals mild widening of the choroid fissure while still normal temporal horn and hippocampus`
+As a simplified scale one could use whether or not a medial temporal lobe atrohpy is present:
 
-`2 equals moderate widening of the choroid fissure, mild widening of the temporal horn and slightly decreased height of the hippocampus`
+|Score|   Meaning|
+|-----|----------|
+|0   |  No MTA   |
+|1   | MTA grade 1 - 4|
 
-`3 equals severe widening of the choroid fissure, moderate widening of the temporal horn and moderate decreased height of hippocampus`
-
-`4 equals severe widening of choroid fissure and temporal horn and severely decreased height of hippocampus`
-
-
+ 

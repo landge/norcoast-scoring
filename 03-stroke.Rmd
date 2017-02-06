@@ -3,12 +3,15 @@ When visually assessing assumed ischemic lesions we differentiate diffusion (DWI
 diffusion negative lesions. A diffusion negative lesion qualifies as a small infarct when it matches the criteria for a lacune, see section \@ref(lacune)
 
 ## Lacunes {#lacune}
-Lacunes [@Potter2011] are defined as small lesions measuring between 3 and 15 mm with characteristic central CSF-like signal on all sequences. They might be surrounded  by a hyperintense T2-FLAIR rim. They occur in the deep white or grey matter, subcortical or in the pons. Lacunes are scored as either absent or present. Where
+The use of the term lacunes [@Wardlaw2008] differs greatly in the literature [@Potter2011], what makes a 
+clear definition very important. In Nor-COAST we define lacunes as small lesions measuring between 3 and 15 mm with characteristic central CSF-like signal on all sequences. They might be surrounded  by a hyperintense T2-FLAIR rim. They occur in the deep white or grey matter, subcortical or in the pons. Lacunes are scored as either absent or present. Where
 
 |Score|Meaning|
 |-----|-------|
 |0    | absent|
 |1    | present|
+
+Lacunes have to be seperated from perivascular spaces (PVS), also known as Virchow-Robin (VR) spaces. These are fluid filled spaces with a central vessel, often without a surrounding rim of hyperintense T2-FLAIR signal. PVS can be found everywhere in the brain, but mostly around the basal ganglia. 
 
 ## Infarcts
 Acute or subacute infarcts are defined radiologically as DWI-positive lesions that, when larger, corresponds to a vascular supply either focal or more territorial. Further other causes of restricted diffusion have to be excluded. Small lesions up to 15 mm without acute diffusion restriction or typical lacunar appearance can not be classified as infarcts and are regarded as unspecific white matter lesions (WML).

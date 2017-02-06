@@ -8,6 +8,12 @@ To visually evaluate the amount of white matter changes we will use the solid fo
 |2    |			Early confluent WMLs, considered abnormal under the age of 70|
 |3    |	Confluent WMLs, always abnormal, poor outcome in terms of cognition and survival|
 
+As a simplified scale one could use wheter WMLs exists or not:
+
+|Score|			Meaning|
+|-----|------------------------|
+|0    |No WMLs		      |
+|1    | WMLs                |
 
 
 
