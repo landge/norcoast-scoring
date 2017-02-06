@@ -6,3 +6,9 @@ For a consistent description of cebral microbleeds Gregoire et al. developed "Th
 
 `r knitr::include_graphics("images/mars.png")`
 
+As a simplified version one could use:
+
+|Score| Meaning|
+|-----|--------|
+|0    |No CMB|
+|1    |CMBs detected|
