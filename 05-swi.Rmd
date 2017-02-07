@@ -1,8 +1,11 @@
-# Cerebral ficrobleeds (CMB)
+# Cerebral microbleeds (CMB)
 
-Microbleeds are detected in healthy individuals with growing age and patients with cerebrovascular disease. CMB might be useful biomarkers for pathologic damage to small vessels from hypertension og cerebral amyloid angiopathy (CAA) [@Gregoire2009].
+Microbleeds are detected in healthy individuals with growing age and patients with cerebrovascular disease. CMB might be useful biomarkers for pathologic damage to small vessels from hypertension og cerebral amyloid angiopathy (CAA) [@Gregoire2009]. Further they have been linked to cognitive impairment [@Shams2016]
 
 For a consistent description of cebral microbleeds Gregoire et al. developed "The Microbleed Anatomical Rating Scale (MARS)" [@Gregoire2009] that is anatomically detailed and worth considering to be included into our study. The [MARS-form](http://www.neurology.org/content/suppl/2009/11/22/73.21.1759.DC1/MARS_Rating_Form.pdf) gives an overview of important microbleed mimics.
+
+BOMBS [@Cordonnier2009] is a different scale that should be taken into consideration. (Not really sure about the differences here!!)
+
 
 `r knitr::include_graphics("images/mars.png")`
 

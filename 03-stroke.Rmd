@@ -4,7 +4,7 @@ diffusion negative lesions. A diffusion negative lesion qualifies as a small inf
 
 ## Lacunes {#lacune}
 The use of the term lacunes [@Wardlaw2008] differs greatly in the literature [@Potter2011], what makes a 
-clear definition very important. In Nor-COAST we define lacunes as small lesions measuring between 3 and 15 mm with characteristic central CSF-like signal on all sequences. They might be surrounded  by a hyperintense T2-FLAIR rim. They occur in the deep white or grey matter, subcortical or in the pons. Lacunes are scored as either absent or present. Where
+clear definition very important. In Nor-COAST we define lacunes as small lesions measuring between 3 and 15 mm with characteristic central CSF-like signal on all sequences. They might be surrounded  by a hyperintense T2-FLAIR rim. They occur in the deep white or grey matter, subcortical or in the pons. Small, focal lesion in the cerebellum are not classified as lacunes (see Infarcts).  Lacunes are scored as either absent or present. Where
 
 |Score|Meaning|
 |-----|-------|
@@ -16,3 +16,6 @@ Lacunes have to be seperated from perivascular spaces (PVS), also known as Virch
 ## Infarcts
 Acute or subacute infarcts are defined radiologically as DWI-positive lesions that, when larger, corresponds to a vascular supply either focal or more territorial. Further other causes of restricted diffusion have to be excluded. Small lesions up to 15 mm without acute diffusion restriction or typical lacunar appearance can not be classified as infarcts and are regarded as unspecific white matter lesions (WML).
 In our study we will measure the volume of the DWI-positive lesion and note its location. 
+Lesions with a typical infarct like appearance (wedge shaped, volume loss, no signs of mass effect, central liquefaction) that are DWI-negative are regarded as non-acute infarction.
+Infarcts measuring more than 15 mm in diameter without affection of the cortex are defined as subcortical infarcts.
+Focal lesions smaller then 15 mm in diameter located in the cerebellum are considered as embolic infarcts not as lacunes.  
